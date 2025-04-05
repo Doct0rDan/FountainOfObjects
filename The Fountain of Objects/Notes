@@ -1,0 +1,18 @@
+31.3.25
+Programm end bei tot implementieren
+
+
+//Enemy level soll level providen mit verschiedenenen #Gegnern
+//#Gegner haben level, hp, mp (mana) und sollen wie der spieler ein moveset aus attacken haben
+//namen aus der liste um überlick zu behalten
+//Attacken aus interface, manche unnötig übertrieben
+//später randomizer für gegner spawn
+//LevelDialog machen
+//
+//vielleicht einfach direkt umschteigen #YOLBE
+//
+//LG LanGustlBratn
+//
+
+
+Monster Sound

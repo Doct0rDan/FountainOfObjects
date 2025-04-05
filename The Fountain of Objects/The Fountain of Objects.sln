@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Fountain of Objects", "The Fountain of Objects.csproj", "{55953387-8108-1B4B-3A5C-E987A701135D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55953387-8108-1B4B-3A5C-E987A701135D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55953387-8108-1B4B-3A5C-E987A701135D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55953387-8108-1B4B-3A5C-E987A701135D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55953387-8108-1B4B-3A5C-E987A701135D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0575A75-40F2-457B-8659-D4048AF53F85}
+	EndGlobalSection
+EndGlobal

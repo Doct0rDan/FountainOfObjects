@@ -1,0 +1,25 @@
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/bin/Debug/net9.0/The Fountain of Objects
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/bin/Debug/net9.0/The Fountain of Objects.deps.json
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/bin/Debug/net9.0/The Fountain of Objects.runtimeconfig.json
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/bin/Debug/net9.0/The Fountain of Objects.dll
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/bin/Debug/net9.0/The Fountain of Objects.pdb
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/obj/Debug/net9.0/The Fountain of Objects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/obj/Debug/net9.0/The Fountain of Objects.AssemblyInfoInputs.cache
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/obj/Debug/net9.0/The Fountain of Objects.AssemblyInfo.cs
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/obj/Debug/net9.0/The Fountain of Objects.csproj.CoreCompileInputs.cache
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/obj/Debug/net9.0/The Fountain of Objects.dll
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/obj/Debug/net9.0/refint/The Fountain of Objects.dll
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/obj/Debug/net9.0/The Fountain of Objects.pdb
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/obj/Debug/net9.0/The Fountain of Objects.genruntimeconfig.cache
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/obj/Debug/net9.0/ref/The Fountain of Objects.dll
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/bin/Debug/net9.0/NAudio.dll
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/bin/Debug/net9.0/NAudio.Asio.dll
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/bin/Debug/net9.0/NAudio.Core.dll
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/bin/Debug/net9.0/NAudio.Midi.dll
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/bin/Debug/net9.0/NAudio.Wasapi.dll
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/bin/Debug/net9.0/NAudio.WinMM.dll
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/obj/Debug/net9.0/The Fountain of Objects.csproj.AssemblyReference.cache
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/obj/Debug/net9.0/The Foun.57803AE4.Up2Date
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/bin/Debug/net9.0/Assets/Dark Souls 'YOU DIED'.mp3
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/bin/Debug/net9.0/Assets/Elden Ring 'Lost Grace'.mp3
+/Users/dennis/Documents/Code/C#/C# Players Guide/The Fountain of Objects/The Fountain of Objects/bin/Debug/net9.0/Assets/Pokémon - Encounter Start.mp3
